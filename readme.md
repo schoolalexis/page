@@ -6,3 +6,12 @@ Ce TP a pour but de vérifier les connaissances de l'étudiant, sur le logiciel 
 
 
 ## Status du TP :
+ 
+En attende de validation :
+
+![En attente de validation !](./assets/img/wait_check_tp.png)
+
+
+Validé :
+
+![Valide !](./assets/img/check_valid_tp.png)
