@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+    font-family: 'Ubuntu', 'serif';
+}
+
+.card {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50% ,-50%);
+    transform: translate(-50%, -50%);
+    /*border: 1px solid white;*/
+}
+
+.content {
+    color: white;
+    margin: 15px;
+}
+
+h1 {
+    font-size: 35px;
+    background: linear-gradient(to right, #fffd98, #bde4a7, #b3d2b2, #9fbbcc, #7a9cc6);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
